@@ -1,0 +1,22 @@
+2023-12-27 21:12:331 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-27 21:12:467 INFO  Homepage :34 - click on signUpLink [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> css selector: a[href='/login']]
+2023-12-27 21:12:986 INFO  Homepage :38 - Verify new user signup New User Signup!
+2023-12-27 21:12:100 INFO  LoginPage :106 - Enter email [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //body/section[@id='form']/div[1]/div[1]/div[3]/div[1]/form[1]/input[2]]
+2023-12-27 21:12:458 INFO  LoginPage :111 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //body/section[@id='form']/div[1]/div[1]/div[3]/div[1]/form[1]/input[3]]
+2023-12-27 21:12:456 INFO  LoginPage :117 - click on signUpLink [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //button[contains(text(),'Signup')]]
+2023-12-27 21:12:510 INFO  LoginPage :120 - Verify Enter account text [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //b[contains(text(),'Enter Account Information')]]
+2023-12-27 21:12:927 INFO  LoginPage :130 - Selecting radio button against Mrs.
+2023-12-27 21:12:965 INFO  LoginPage :135 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //input[@id='password']]
+2023-12-27 21:12:108 INFO  LoginPage :139 - Enter Day [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> id: days]
+2023-12-27 21:12:376 INFO  LoginPage :130 - Selecting radio button against Mrs.
+2023-12-27 21:12:410 INFO  LoginPage :135 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //input[@id='password']]
+2023-12-27 21:12:564 INFO  LoginPage :139 - Enter Day [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> id: days]
+2023-12-27 21:12:830 INFO  LoginPage :130 - Selecting radio button against Mrs.
+2023-12-27 21:12:868 INFO  LoginPage :135 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //input[@id='password']]
+2023-12-27 21:12:48 INFO  LoginPage :139 - Enter Day [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> id: days]
+2023-12-27 21:12:317 INFO  LoginPage :130 - Selecting radio button against Mrs.
+2023-12-27 21:12:342 INFO  LoginPage :135 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //input[@id='password']]
+2023-12-27 21:12:507 INFO  LoginPage :139 - Enter Day [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> id: days]
+2023-12-27 21:12:731 INFO  LoginPage :130 - Selecting radio button against Mrs.
+2023-12-27 21:12:755 INFO  LoginPage :135 - Enter password [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> xpath: //input[@id='password']]
+2023-12-27 21:12:892 INFO  LoginPage :139 - Enter Day [[ChromeDriver: chrome on windows (2504d7b1c1d764c157ee11204ec266a2)] -> id: days]
